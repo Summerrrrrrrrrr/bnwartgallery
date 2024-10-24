@@ -1,0 +1,7 @@
+img:hover {
+    transform:scale(1.3);animation-delay: 3s;animation-fill-mode: forwards;
+}
+
+ul {
+    list-style: none;
+}
